@@ -1,6 +1,6 @@
 # Smart Street Light System
 
-![Smart Street Light System](https://example.com/smart_street_light_system.jpg)
+![Smart Street Light System](https://github.com/vanshsethi23/Smart-Street-Light-System---IOT-Project/blob/main/IMAGE%202024-05-11%2021:24:21.jpg?raw=true)
 
 ## Overview
 
